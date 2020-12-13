@@ -1,8 +1,7 @@
 package nl.codesquad.library.kotlin
 
-import org.junit.Test
-import kotlin.test.assertEquals
-import kotlin.test.assertTrue
+import org.junit.jupiter.api.Assertions.assertTrue
+import org.junit.jupiter.api.Test
 
 class HelloTest {
     @Test
